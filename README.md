@@ -1,6 +1,6 @@
 # security-cheatsheets
 
-A collection of useful cheatsheets for [cheat](https://github.com/chreat/cheat) that focuses on aiding security-type people with either security tools or popular UNIX programs.
+A collection of useful cheatsheets for [cheat](https://github.com/cheat/cheat) that focuses on aiding security-type people with either security tools or popular UNIX programs.
 
 ## Requirements
 
