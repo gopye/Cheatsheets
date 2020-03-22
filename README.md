@@ -1,10 +1,10 @@
 # security-cheatsheets
 
-A collection of useful cheatsheets for [cheat](https://github.com/chrisallenlane/cheat) that focuses on aiding security-type people with either security tools or popular UNIX programs.
+A collection of useful cheatsheets for [cheat](https://github.com/cheat/cheat) that focuses on aiding security-type people with either security tools or popular UNIX programs.
 
 ## Requirements
 
-- [cheat](https://github.com/chrisallenlane/cheat)
+- [cheat](https://github.com/cheat/cheat)
 
 ## Installation
 
@@ -29,7 +29,7 @@ This repository was originally a group project which had the following group mem
 
 ## License
 
-This repository is licensed under the [MIT license](https://github.com/andrewjkerr/security-cheatsheets/blob/master/LICENSE.md).
+This repository is licensed under the [MIT license](https://github.com/gopye/security-cheatsheets/blob/master/LICENSE.md).
 
 ## Contributing
 
